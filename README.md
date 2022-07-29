@@ -1,16 +1,9 @@
 # i_am_poor
 
-A new Flutter project.
+simple app using the same concept as the i_am_rich app just to recap what 
+i learned from flutter so far
 
-## Getting Started
+to see the app that this app is based on click
 
-This project is a starting point for a Flutter application.
+- [The i_am_rich app](https://github.com/RadwanH/i_am_rich_app)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
